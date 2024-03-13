@@ -1,0 +1,10 @@
+{
+    "require": {
+        "wanfeiyy/dd": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Plugin\\": "src"
+        }
+    }
+}
